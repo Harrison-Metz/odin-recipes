@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin: 5px auto;
+    background-color: darkred;
+}
+
+.recipe-list li {
+    padding: 10px 10px;
+}
+
+body {
+    background-color: crimson;
+    color: white;
+    
+}
